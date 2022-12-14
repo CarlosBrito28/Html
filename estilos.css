@@ -1,0 +1,14 @@
+body {
+    background-color: blanchedalmond;
+    font-family: 'sans-serif', 'arial', ;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    display: block;
+    width: 35%;
+    margin: auto;
+}
