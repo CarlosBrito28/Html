@@ -9,6 +9,16 @@ h1 {
 
 img {
     display: block;
-    width: 35%;
+    width: 30%;
     margin: auto;
+}
+
+a {
+    display: block;
+    margin: 50px 20px;
+    text-decoration: none;
+}
+
+a:hover {
+    color: black;
 }
